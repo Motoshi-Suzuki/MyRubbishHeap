@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C661A442-2006-0694-D67A-4A334A11E90D}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LearnHowToCodeCS.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LearnHowToCodeCS.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/Warrior.cs" Line="9" Column="53" />
+      <File FileName="Assets/Scripts/MyPlayer.cs" Line="27" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Sprites" expanded="True" />
+            </Node>
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef64d310-574f-44b9-b361-296c7ec9b11d" />
+  <MultiItemStartupConfigurations />
+</Properties>
